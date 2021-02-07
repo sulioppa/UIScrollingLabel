@@ -1,4 +1,4 @@
-![](UIScrollingLabel.gif)
+![](UIScrollingLabel.GIF)
 
 # UIScrollingLabel
 Automatically Scrolled Label. 带跑马灯效果的 Label。
